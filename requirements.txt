@@ -1,0 +1,22 @@
+# أساسي
+numpy
+scipy
+matplotlib
+tqdm
+
+# معالجة الصوت
+librosa
+soundfile
+pyworld
+pydub
+
+# تعلم عميق
+torch
+torchaudio
+torchvision
+tensorflow  # في حال كنت تستعمل أجزاء TensorFlow
+
+# أدوات إضافية
+scikit-learn
+numba
+pandas
