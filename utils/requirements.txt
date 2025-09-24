@@ -1,0 +1,16 @@
+%%writefile requirements.txt
+numpy
+scipy
+matplotlib
+tqdm
+librosa
+soundfile
+pyworld
+pydub
+torch
+torchaudio
+torchvision
+tensorflow
+scikit-learn
+numba
+pandas
